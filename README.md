@@ -5,7 +5,7 @@ I do appreciate the guidance and help given to my project by [Prof. Liqin Huang]
 
 ## Website Preview
 ### Home Page
-<img src="images/homepage.png" width="900">
+<img src="images/homepage.gif" width="900">
 
 ## Programming Environment
 ### CUDA Version
