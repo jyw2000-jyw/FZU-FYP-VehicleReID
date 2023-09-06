@@ -1,8 +1,5 @@
 # FZU-FYP-VehicleReID
 
-## Acknowledgement
-I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022).
-
 ## Website Preview
 ### Home Page
 <img src="images/homepage.gif" width="900">
@@ -29,8 +26,8 @@ psutil==5.9.5
 seaborn==0.12.2  
 pyyaml
 
-## Project Report
-Here is my [FYP-Report](https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link).
+## Acknowledgement
+I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022). Here is my [FYP-Report](https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link).
 
 ## News
 **[News]** Source code is coming soon...
