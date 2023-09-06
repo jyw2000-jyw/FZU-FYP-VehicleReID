@@ -27,7 +27,7 @@ seaborn==0.12.2
 pyyaml
 
 ## Project Report
-Here is my FYP-Report.
+Here is my [FYP-Report](https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link).
 
 ## News
 **[News]** Source code is coming soon...
