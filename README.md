@@ -8,7 +8,7 @@ I do appreciate the guidance and help given to my project by [Prof. Liqin Huang]
 <img src="images/homepage.gif" width="900">
 
 ### Heroku Link
-Please check the WebApp through:[Link](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022)
+Please check the WebApp through: [Link](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022)
 
 ## Programming Environment
 ### CUDA Version
