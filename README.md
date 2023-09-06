@@ -7,9 +7,6 @@ I do appreciate the guidance and help given to my project by [Prof. Liqin Huang]
 ### Home Page
 <img src="images/homepage.png" width="900">
 
-## Project Report
-Here is my FYP-Report.
-
 ## Programming Environment
 ### CUDA Version
 <img src="images/nvidia-smi.png" width="500">
@@ -28,6 +25,9 @@ matplotlib==3.7.2
 psutil==5.9.5  
 seaborn==0.12.2  
 pyyaml
+
+## Project Report
+Here is my FYP-Report.
 
 ## News
 **[News]** Source code is coming soon...
