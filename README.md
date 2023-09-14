@@ -2,14 +2,14 @@
 
 ## Website Preview
 ### Home Page
-<img src="images/homepage.gif" width="900">
+<img src="figs/homepage.gif" width="900">
 
 ### Heroku Link
 Please check the WebApp through: [Link](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022)
 
 ## Programming Environment
 ### CUDA Version
-<img src="images/nvidia-smi.png" width="500">
+<img src="figs/nvidia-smi.png" width="500">
 
 ### IDE
 PyCharm Community Edition 2022.3.2
