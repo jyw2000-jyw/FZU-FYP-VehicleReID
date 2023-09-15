@@ -2,7 +2,7 @@
 
 [Yuwei Jiang](https://github.com/jyw2000-jyw)* of **Fuzhou University**
 
-<a href='https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
 <a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/Web-Heroku-blue'></a> 
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be)
 
