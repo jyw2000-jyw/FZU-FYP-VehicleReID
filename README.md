@@ -42,4 +42,4 @@ conda activate fyp
 ```
 
 ## Acknowledgement
-I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022).
+I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022) of **Fuzhou University**.
