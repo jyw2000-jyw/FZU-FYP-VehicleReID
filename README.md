@@ -10,8 +10,7 @@
 Source code is coming soon...
 
 
-## Website Preview
-### Home Page
+## Online Demo
 <img src="figs/homepage.gif" width="900">
 
 
