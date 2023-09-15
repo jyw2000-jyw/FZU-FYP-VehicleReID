@@ -1,5 +1,13 @@
 # FZU-FYP-VehicleReID
 
+<a href='https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> 
+<a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue'></a> 
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be)
+
+## News
+Source code is coming soon...
+
+
 ## Website Preview
 ### Home Page
 <img src="figs/homepage.gif" width="900">
@@ -34,7 +42,4 @@ conda activate fyp
 ```
 
 ## Acknowledgement
-I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022). Here is my [FYP-Report](https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link).
-
-## News
-**[News]** Source code is coming soon...
+I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022).
