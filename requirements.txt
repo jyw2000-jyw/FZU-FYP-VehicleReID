@@ -1,4 +1,4 @@
-torch==2.0.0
+torch torchvision torchaudio
 streamlit==1.11.0
 altair==4.2.2
 opencv-python==4.7.0.68
@@ -7,5 +7,3 @@ matplotlib==3.7.2
 psutil==5.9.5
 seaborn==0.12.2
 pyyaml
-torchvision==0.15.0
-torchaudio==2.0.0
