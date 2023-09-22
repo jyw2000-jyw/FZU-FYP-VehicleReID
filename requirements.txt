@@ -6,3 +6,5 @@ matplotlib==3.7.2
 psutil==5.9.5
 seaborn==0.12.2
 pyyaml
+pytorch==2.0.0
+torchvision==0.15.0
