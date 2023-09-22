@@ -39,7 +39,7 @@ pyyaml
 conda env create -f environment.yml
 conda activate fyp
 ```
-## Installation
+## Run the demo
 
 ```
 streamlit run demo.py
