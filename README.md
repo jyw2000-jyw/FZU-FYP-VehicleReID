@@ -7,7 +7,7 @@
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be)
 
 ## News
-Heroku demo is not yet available🥹
+Heroku demo is not yet available🥹  
 Source code is coming soon...
 
 
