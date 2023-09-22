@@ -3,10 +3,11 @@
 [Yuwei Jiang](https://github.com/jyw2000-jyw)* of **Fuzhou University**
 
 <a href='https://drive.google.com/file/d/1jbUqSOgpFriuA3PUO2qAShqfJPhx5nD1/view?usp=drive_link'><img src='https://img.shields.io/badge/Paper-PDF-red'></a> 
-<a href='https://huggingface.co/spaces/Vision-CAIR/minigpt4'><img src='https://img.shields.io/badge/Web-Heroku-blue'></a> 
+<a href='https://dashboard.heroku.com/apps'><img src='https://img.shields.io/badge/Web-Heroku-blue'></a> 
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be)
 
 ## News
+Heroku demo is not yet available🥹  
 Source code is coming soon...
 
 
@@ -33,12 +34,17 @@ psutil==5.9.5
 seaborn==0.12.2  
 pyyaml
 
-## Installation
+## How to use
+### Installation
 
 ```
 conda env create -f environment.yml
 conda activate fyp
 ```
+### Run the demo
 
+```
+streamlit run demo.py
+```
 ## Acknowledgement
 I do appreciate the guidance and help given to my project by [Prof. Liqin Huang](http://itlab.fzu.edu.cn/gzl/ZhuanJi/TeacherInfo2.aspx?No=T96022) of **Fuzhou University**.
