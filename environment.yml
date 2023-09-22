@@ -5,6 +5,7 @@ channels:
   - http://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/pytorch/win-64/
   - defaults
 dependencies:
+  - python=3.8.5
   - blas=1.0=mkl
   - brotlipy=0.7.0=py38h2bbff1b_1003
   - ca-certificates=2023.05.30=haa95532_0
