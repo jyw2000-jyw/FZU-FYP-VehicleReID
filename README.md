@@ -33,13 +33,14 @@ psutil==5.9.5
 seaborn==0.12.2  
 pyyaml
 
-## Installation
+## How to use
+### Installation
 
 ```
 conda env create -f environment.yml
 conda activate fyp
 ```
-## Run the demo
+### Run the demo
 
 ```
 streamlit run demo.py
