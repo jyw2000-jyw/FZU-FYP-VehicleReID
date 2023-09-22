@@ -9,4 +9,3 @@ seaborn==0.12.2
 pyyaml
 torchvision==0.15.0
 torchaudio==2.0.0
-pytorch-cuda==11.7
